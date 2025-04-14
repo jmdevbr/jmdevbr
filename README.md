@@ -104,8 +104,3 @@ I'm **Jhonatas Matheus**, a 27-year-old software engineer passionate about codin
 > "I spend my time building things that make a difference — whether for clients, businesses, or just for the joy of learning and growing every day."
 
 ---
-
-Se quiser incluir seus projetos em destaque ou uma seção de "Pinned Repositories", posso adicionar também. Deseja?  
-E se quiser um botão de "Buy me a coffee", badge de visitante ou banner personalizado, posso incluir também!
-
-Fico no aguardo de qualquer ajuste ou adição que quiser fazer 😊
